@@ -10,7 +10,7 @@ Hi, I'm Yunwei, a passionate learner and software developer from Hangzhou, China
 
 ## 🙋‍♂️ A bit more about me
 
-I started my coding journey in 2017, and since then, I have been dedicated to expanding my knowledge and skills. I believe that having a curious and open mind allows me to continue learning and improving.
+I started my coding journey in 2024, and since then, I have been dedicated to expanding my knowledge and skills. I believe that having a curious and open mind allows me to continue learning and improving.
 
 ## 👨‍💻 Stats
 
