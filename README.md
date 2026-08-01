@@ -39,6 +39,8 @@ Arhan Abdullah
 
 ```
 
+---
+
 ```console
 arhan@github:~$ cat currently_working_on.txt
 
@@ -52,38 +54,6 @@ arhan@github:~$ cat currently_working_on.txt
 ✓ Improving Backend Architecture
 
 ✓ Solving DSA Problems
-```
-
-```console
-arhan@github:~$ tree skills
-
-skills
-│
-├── Frontend
-│   ├── HTML
-│   ├── CSS
-│   ├── JavaScript
-│   ├── React
-│   └── Tailwind CSS
-│
-├── Backend
-│   ├── Node.js
-│   ├── Express.js
-│   ├── MongoDB
-│   ├── JWT
-│   └── REST APIs
-│
-├── Programming
-│   ├── JavaScript
-│   ├── Java
-│   └── C++
-│
-└── Tools
-    ├── Git
-    ├── GitHub
-    ├── Postman
-    ├── VS Code
-    └── Docker
 ```
 
 ---
@@ -141,7 +111,4 @@ arhan@github:~$ find ./socials
 ```console
 arhan@github:~$ echo "Happy Coding!"
 ```
-
-```
-Happy Coding ❤️
-```
+---
