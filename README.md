@@ -76,20 +76,16 @@ arhan@github:~$ ls projects
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" >
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arhanabdullah&theme=github_dark"/>
-
+<br><br>
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arhanabdullah&theme=github_dark"/>
-
+<br><br>
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arhanabdullah&theme=github_dark"/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arhanabdullah&theme=github_dark"/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arhanabdullah&theme=github_dark"/>
-
+<br><br>
 <img src="https://streak-stats.demolab.com?user=Arhanabdullah&theme=github-dark&hide_border=true"/>
-
+<br><br>
 </div>
 
 ---
@@ -100,17 +96,17 @@ arhan@github:~$ ls projects
 arhan@github:~$ find ./socials
 ```
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/arhan-abdullah">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/arhan-abdullah" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Arhan%20Abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:arhan.abdullah307@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-arhan.abdullah307%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
