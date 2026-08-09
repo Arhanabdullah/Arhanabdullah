@@ -19,7 +19,7 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           output-path: profile/streak-light.svg
-          theme: default
+          theme: radical
           hide-border: true
 
       - name: Generate streak stats (dark)
