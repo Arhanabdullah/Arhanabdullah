@@ -5,6 +5,11 @@ on:
     - cron: '0 0 * * *' # Daily
   workflow_dispatch:
 
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
+
 jobs:
   update-streak:
     runs-on: ubuntu-latest
