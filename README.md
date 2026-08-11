@@ -168,9 +168,10 @@ A fully functional calculator built in vanilla JavaScript, focused on DOM manipu
 
 <img height="240" src="https://github-readme-stats.zcy.dev/api?username=Arhanabdullah&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&border_color=313244&cache_seconds=3600"/> <br><br>
 <img
-  height="240"
-  src="https://github-readme-streak-stats.vercel.app/?user=Arhanabdullah&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=A6E3A1&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4"
-/> <br><br>
+    height="240"
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+  /> <br><br>
 
 <img width="450" src="https://github-readme-stats.zcy.dev/api/top-langs?username=Arhanabdullah&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4&border_color=313244&cache_seconds=3600"/> <br><br>
 
