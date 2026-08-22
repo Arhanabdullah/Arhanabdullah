@@ -21,6 +21,7 @@
 <a href="https://github.com/Arhanabdullah">
   <img src="https://img.shields.io/badge/GitHub-89B4FA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/_arhanabdullah_">
   <img src="https://img.shields.io/badge/Instagram-F38BA8?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
