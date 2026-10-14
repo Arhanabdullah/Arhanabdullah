@@ -93,12 +93,12 @@ OPEN_TO  : Remote Software Development Internships
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **React.js** | ⭐⭐⭐⭐☆ | Component-driven UI development, state management, hooks |
-| **Node.js / Express.js** | ⭐⭐⭐⭐☆ | REST API design and server-side logic for full-stack apps |
+| **React.js** | ⭐⭐⭐⭐⭐ | Component-driven UI development, state management, hooks |
+| **Node.js / Express.js** | ⭐⭐⭐⭐⭐ | REST API design and server-side logic for full-stack apps |
 | **MongoDB** | ⭐⭐⭐⭐☆ | Schema design and CRUD operations for MERN applications |
 | **JavaScript (Core)** | ⭐⭐⭐⭐☆ | DOM manipulation, event-driven programming, vanilla JS builds |
 | **HTML / CSS** | ⭐⭐⭐⭐⭐ | Semantic markup and responsive front-end layouts |
-| **Git / GitHub** | ⭐⭐⭐⭐☆ | Version control, open-source contribution workflows |
+| **Git / GitHub** | ⭐⭐⭐⭐⭐ | Version control, open-source contribution workflows |
 
 </div>
 
