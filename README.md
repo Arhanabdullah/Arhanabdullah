@@ -56,15 +56,15 @@ OPEN_TO  : Remote Software Development Internships
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,redux,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,redux,next&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
 
 **Tools**
 
